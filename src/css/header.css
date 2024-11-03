@@ -1,0 +1,36 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(35, 35, 97);
+    font-size: 2rem;
+}
+
+.logo{
+    color: white;
+}
+
+.logo span{
+    color: orange;
+}
+
+
+.navbar a{
+    color: white;
+    margin: .4rem;
+    text-decoration: none;
+}
+
+.navbar a.active{
+    color: orange;
+}
+
+
+.icons .fa-search{
+    color: orange;
+}
+
+
